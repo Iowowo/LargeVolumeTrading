@@ -1,0 +1,34 @@
+# Build directories
+build/
+cmake-build*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+*.ninja
+*.cmake
+
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.pdb
+*.d
+
+# Third-party fetchcontent / deps
+_deps/
+Testing/
+
+# IDE/editor
+.idea/
+.vscode/
+.venv/
+
+# Logs and temp
+*.log
